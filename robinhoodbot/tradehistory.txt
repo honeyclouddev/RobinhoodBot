@@ -1,3 +1,1 @@
-{
-
-}
+{"2024-06-15 22:35:47.009203": {"ARKK": {"price": "43.900000", "quantity": "10.00000000", "average_buy_price": "50.9600", "equity": "439.00", "percent_change": "-13.85", "equity_change": "-70.600000", "type": "etp", "name": "ARK Innovation ETF", "id": "79b7c6e2-1cad-4160-8ae4-ee43a8e50840", "pe_ratio": "-28.569110", "percentage": "0.20", "bought_at": "2024-02-16 04:58:47.330682+00:00"}}}
